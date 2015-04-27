@@ -10,13 +10,13 @@ Agua Hedionda Lagoon
 
 ![Alt text](http://carlsbaddesal.com/Websites/carlsbaddesal/images/site_page_aerial_view.gif)
 
-###Objectives
+###Objectives of plant
 * Provide a local source of potable water to supplement imported water supplies
 * Improve water supply reliability
 * Improve water quality
 * Complement local and regional water conservation and water recycling programs
 
-###Needs
+###Needs of plant
 State, regional and local water plans all have confirmed that immediate and pressing water needs cannot be accomplished without some investment in seawater desalination.
 * The project will provide 56,000 AFY of new water supply for the San Diego region
 * The CA Department of Water Resources’ 2009 Water Plan Update identifies the need for 275,000 AF of desalinated water by 2025

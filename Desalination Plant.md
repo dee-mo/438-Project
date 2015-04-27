@@ -1,6 +1,6 @@
 #Carlsbad Desalination Plant
 ######Jeff Kelly and Dustin DeMatteo
-The initial sections of Overview,Location,Objectives of plant,Needs of plant are transcribed from the source found below. 
+The initial sections of Overview,Location,Objectives of plant,Needs of plant are transcribed from "Source" below. 
 
 All of our assumptions and calculations made are attempts to learn more of the Carlsbag Desaliantion Plant and explore the public information provided.
 ##Overview
